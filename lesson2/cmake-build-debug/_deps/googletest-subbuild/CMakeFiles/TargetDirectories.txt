@@ -1,0 +1,3 @@
+/home/lesha/CLionProjects/Lessons_4sem/lesson2/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/home/lesha/CLionProjects/Lessons_4sem/lesson2/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/home/lesha/CLionProjects/Lessons_4sem/lesson2/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
